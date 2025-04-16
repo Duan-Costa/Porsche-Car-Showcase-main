@@ -5,6 +5,7 @@ Este é um projeto de página da web que apresenta meus 5 carros favoritos da Po
 ## Demonstração
 
 Você pode ver uma demonstração ao vivo deste projeto [aqui]
+https://duan-costa.github.io/Porsche-Car-Showcase-main/
 ## Conteúdo
 
 - [Tecnologias](#tecnologias)
@@ -25,7 +26,7 @@ Este projeto utiliza as seguintes tecnologias:
 1. Clone este repositório:
 
    ```bash
-   git clone 
+  https://github.com/Duan-Costa/Porsche-Car-Showcase-main/edit/main/README.md
 1. Abra o arquivo index.html em seu navegador.
 
 2. Clique nos botões à direita para selecionar o carro que deseja visualizar.
